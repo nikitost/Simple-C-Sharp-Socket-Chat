@@ -1,0 +1,6 @@
+C:\Users\AldNS\source\repos\ConsoleSocketServerV2\ConsoleSocketServerV2\bin\Debug\ConsoleSocketServerV2.exe.config
+C:\Users\AldNS\source\repos\ConsoleSocketServerV2\ConsoleSocketServerV2\bin\Debug\ConsoleSocketServerV2.exe
+C:\Users\AldNS\source\repos\ConsoleSocketServerV2\ConsoleSocketServerV2\bin\Debug\ConsoleSocketServerV2.pdb
+C:\Users\AldNS\source\repos\ConsoleSocketServerV2\ConsoleSocketServerV2\obj\Debug\ConsoleSocketServerV2.csprojAssemblyReference.cache
+C:\Users\AldNS\source\repos\ConsoleSocketServerV2\ConsoleSocketServerV2\obj\Debug\ConsoleSocketServerV2.exe
+C:\Users\AldNS\source\repos\ConsoleSocketServerV2\ConsoleSocketServerV2\obj\Debug\ConsoleSocketServerV2.pdb
